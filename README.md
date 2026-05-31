@@ -1,56 +1,41 @@
 <div align="center">
 
-# Hi, I'm adnaan.
+<h1>adnaan</h1>
 
-### Fixing code with care, like a barista.
+<p>
+  <b>方寸代码藏山海，一行一思筑星河。</b>
+</p>
 
-There are so many interesting things in the world,  
-and I want to keep building, learning, and exploring.
+<p>
+  以码为舟，以开源为岸。<br/>
+  偏爱以简洁逻辑拆解问题，以代码打磨想法。
+</p>
 
-[Blog](http://www.adnaan.site) · [GitHub](https://github.com/ad-naan) · [Gitee](http://gitee.com/adnaan) · [Email](mailto:adnaan.worker@gmail.com)
+<p>
+  <code>JavaScript</code>
+  <code>TypeScript</code>
+  <code>Python</code>
+  <code>React</code>
+  <code>Next.js</code>
+  <code>Node.js</code>
+  <code>Git</code>
+  <code>Markdown</code>
+</p>
 
-</div>
+<p>
+  <a href="https://github.com/ad-naan">GitHub</a>
+  ·
+  <a href="http://gitee.com/adnaan">Gitee</a>
+  ·
+  <a href="http://www.adnaan.site">Blog</a>
+  ·
+  <a href="mailto:adnaan.worker@gmail.com">Email</a>
+</p>
 
----
+<br/>
 
-## Nice to meet you!
-
-I'm adnaan, a developer who enjoys building practical tools and exploring the craft of software.
-
-I care about clean code, useful products, and small details that make technology feel better.
-
-For me, writing code is a bit like brewing coffee:  
-patient, careful, and always worth refining.
-
----
-
-## Tech Stack
-
-**Languages**
-
-JavaScript / TypeScript / Python
-
-**Frontend**
-
-React / Next.js / HTML / CSS
-
-**Backend & Tools**
-
-Node.js / Git / Markdown / CLI Tools
-
----
-
-## Currently
-
-- Building useful developer tools
-- Exploring AI-assisted workflows
-- Improving product thinking
-- Learning through open source
-
----
-
-<div align="center">
-
-_One idea, one commit, one careful step forward._
+<p>
+  <i>愿以技载思，与同好共赴山海。</i>
+</p>
 
 </div>
