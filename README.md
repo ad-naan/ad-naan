@@ -16,7 +16,8 @@
 <code>React</code>
 <code>Vue</code>
 <code>ThinkPHP</code>
-<code>Python</code>
+<code>Electron</code>
+<code>Tauri</code>
 </p>
 
 <p>
